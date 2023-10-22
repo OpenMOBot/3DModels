@@ -10,4 +10,6 @@
 - 2 <span style="color: #B532FA">x</span> 3DModels/design_stl/sensor_holder/spacer.STL <br />
 - 4 <span style="color: #B532FA">x</span> 3DModels/design_stl/sensor_holder/sturt.STL <br />
 
+# <span style="color: #32FAE5">2. Assembly view </span>
+![assembly](https://github.com/OpenMOBot/3DModels/assets/32581471/4196ec15-6460-4487-aede-a9ffc5f75b8b)
 
