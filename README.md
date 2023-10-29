@@ -3,13 +3,13 @@
 ## <span style="color: #32FAE5">1.1 Needed parts to be printed</span> 
 
 
-- 1 :heavy_multiplication_x: 3DModels/design_stl/chassis/chassis.STL <br />
-- 4 :heavy_multiplication_x: 3DModels/design_stl/chassis/motor_mount.STL <br />
-- 2 :heavy_multiplication_x: 3DModels/design_stl/encoder_wheels/encoder_wheel_v4_20.STL <br />
-- 2 :heavy_multiplication_x: 3DModels/design_stl/sensor_holder/mounting_part.STL <br />
-- 1 :heavy_multiplication_x: 3DModels/design_stl/sensor_holder/sensor_holder.STL <br /> 
-- 2 :heavy_multiplication_x: 3DModels/design_stl/sensor_holder/spacer.STL <br />
-- 4 :heavy_multiplication_x: 3DModels/design_stl/sensor_holder/sturt.STL <br />
+- 1 :heavy_multiplication_x: [chassis](https://github.com/OpenMOBot/3DModels/blob/17b4ab84576b85b1f8e65cfbf05c9b37ba42eddf/design_stl/chassis/chassis.STL) <br />
+- 4 :heavy_multiplication_x: [motor mount](https://github.com/OpenMOBot/3DModels/blob/17b4ab84576b85b1f8e65cfbf05c9b37ba42eddf/design_stl/chassis/motor_mount.STL) <br />
+- 2 :heavy_multiplication_x: [encoder wheel](https://github.com/OpenMOBot/3DModels/blob/17b4ab84576b85b1f8e65cfbf05c9b37ba42eddf/design_stl/encoder_wheels/encoder_wheel_v4_20.STL) <br />
+- 2 :heavy_multiplication_x: [mounting part](https://github.com/OpenMOBot/3DModels/blob/17b4ab84576b85b1f8e65cfbf05c9b37ba42eddf/design_stl/sensor_holder/mounting_part.STL) <br />
+- 1 :heavy_multiplication_x: [sensor holder](https://github.com/OpenMOBot/3DModels/blob/17b4ab84576b85b1f8e65cfbf05c9b37ba42eddf/design_stl/sensor_holder/sensor_holder.STL) <br /> 
+- 2 :heavy_multiplication_x: [spacer](https://github.com/OpenMOBot/3DModels/blob/17b4ab84576b85b1f8e65cfbf05c9b37ba42eddf/design_stl/sensor_holder/spacer.STL) <br />
+- 4 :heavy_multiplication_x: [sturt](https://github.com/OpenMOBot/3DModels/blob/17b4ab84576b85b1f8e65cfbf05c9b37ba42eddf/design_stl/sensor_holder/sturt.STL) <br />
 
 ## <span style="color: #32FAE5">1.2 Assemble the QTR-8RC sensor holder</span>
 
