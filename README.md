@@ -20,9 +20,16 @@
 ![sensor_holder_parts_assembly](https://github.com/OpenMOBot/3DModels/assets/32581471/59e62713-499b-461b-bb93-b0357e33ba33)
 
 - Secure the sensor holder by using M3x30 and M3x25 bolts along with M3 nuts.
-![sensor_holder_parts_assembly_bolts_nuts](https://github.com/OpenMOBot/3DModels/assets/32581471/fbc18f4c-f51a-4dfd-ba43-5c3f3e4e6b47)
+<p align="center">
+    <img src="https://github.com/OpenMOBot/3DModels/assets/32581471/249c852c-e148-4055-917d-3d346adac3df" >
+</p>
 
-## <span style="color: #32FAE5">1.3 Mount the sensor holder to the chassis</span>
+## <span style="color: #32FAE5">1.3 Mount the Arduino and the DC motor driver L298N</span>
+<p align="center">
+    <img src="https://github.com/OpenMOBot/3DModels/assets/32581471/f8ff68b6-7978-44c6-a1b9-9cb30204f4d4" >
+</p>
+
+## <span style="color: #32FAE5">1.4 Mount the sensor holder to the chassis</span>
 
 - Secure the sensor holder to the chassis using M4x12 bolts along with M4 nuts.
 
@@ -34,9 +41,26 @@
 </p>
 
 
-## <span style="color: #32FAE5">1.3 Mount the mottors to the chassis</span>
+## <span style="color: #32FAE5">1.5 Mount the mottors to the chassis</span>
+
+- Insert the planks designed to accommodate the DC motors into their respective slots, ensuring they are oriented to face the bottom of the robot and mount the motors and screw them with M3x30 bolts along with M3 nuts.
+
+<p align="center">
+    <img src="https://github.com/OpenMOBot/3DModels/assets/32581471/179c1300-7450-48ac-86a9-744cba7c0cc0" >
+</p>
+
+## <span style="color: #32FAE5">1.6 Mount the encoders to the chassis</span>
+
+- Secure the encoders using M3x14 bolts and M3 nuts.
+
+<p align="center">
+    <img src="https://github.com/OpenMOBot/3DModels/assets/32581471/d9be3079-3745-4fe8-b154-8921f9e5e717" >
+</p>
 
 
 # <span style="color: #32FAE5">4. Assembly view </span>
-- Final view
-![assembly](https://github.com/OpenMOBot/3DModels/assets/32581471/4196ec15-6460-4487-aede-a9ffc5f75b8b)
+
+<p align="center">
+    <img src="https://github.com/OpenMOBot/3DModels/assets/32581471/3d6dd445-76a9-4bb6-8913-98ee321cf1ef" >
+</p>
+
