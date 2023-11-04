@@ -10,6 +10,7 @@
 - 1 :heavy_multiplication_x: [sensor holder](https://github.com/OpenMOBot/3DModels/blob/17b4ab84576b85b1f8e65cfbf05c9b37ba42eddf/design_stl/sensor_holder/sensor_holder.STL) <br /> 
 - 2 :heavy_multiplication_x: [spacer](https://github.com/OpenMOBot/3DModels/blob/17b4ab84576b85b1f8e65cfbf05c9b37ba42eddf/design_stl/sensor_holder/spacer.STL) <br />
 - 4 :heavy_multiplication_x: [sturt](https://github.com/OpenMOBot/3DModels/blob/17b4ab84576b85b1f8e65cfbf05c9b37ba42eddf/design_stl/sensor_holder/sturt.STL) <br />
+- 1  :heavy_multiplication_x:  [ultrasonic_holder](https://github.com/OpenMOBot/3DModels/blob/main/design_stl/chassis/ultrasonic-holder.stl)
 
 ## <span style="color: #32FAE5">1.2 Assemble the QTR-8RC sensor holder</span>
 
